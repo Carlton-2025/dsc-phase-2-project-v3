@@ -22,13 +22,13 @@ In the folder `zippedData` are movie datasets from:
 ### Visualisation
 * For this project, we made some visuals to describe the data after data cleaning. 
 * We needed to first know if the industry was even lucrative to begin with and made the following plot
-![Graph to show gross per year](./images/Movie_total_gross_against_year.png)
+![Graph to show gross per year](./images/Movies-total-gross-against-year.png)
 * We also needed to show which audience is being targeted by the movie industry
-![Graph to show the audience being targeted](./images/Movie_rating.png)
+![Graph to show the audience being targeted](./images/Movie-rating.png)
 * We then had to show which genre did the industry target
-![Graph to show the genres being targeted](./images/Types_of_movie_genres.png) 
+![Graph to show the genres being targeted](./images/Types-of-movie-genres.png) 
 * We then had to also show the runtimes of films to advice on how long they should last
-![Graph to show the runtimes of films](./images/runtimes_of_movies_count.png)
+![Graph to show the runtimes of films](./images/runtimes-of-movies-count.png)
 ## Conclusion
 Since we were able to conduct proper analysis using the data, the project was a success.For this, the head of the movie studio is advised as follows:
 ### Recommendations
